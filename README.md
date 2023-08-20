@@ -1,5 +1,5 @@
 # Capstone-project1
-capstone project - Web development Bootcamp
+capstone project - Web development Bootcamp - App Brewery, London
 
 Instructions for Capstone Project 1 - Online Resume
 Project Specifications
